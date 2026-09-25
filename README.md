@@ -1,13 +1,13 @@
 # ALE-disparities-lifestyle
 
-Stata and R syntax for "Contributions of Lifestyle Risk Factors to Individual- and Area-Level Socio-Economic Disparities in Active and Total Life Expectancy Among Older Adults: Evidence from the Precipitating Events Project Cohort Study"
+Stata and R syntax for "Contributions of lifestyle risk factors to socio-economic disparities in active and total life expectancy among older adults: a longitudinal cohort study"
 
 The repository contains the Stata and R syntax to replicate all of the analyses from our publication
 
 There are eight files:
 
-1. 2026-06-17_Stata-do-file_v01.do # This is the annotated Stata do file
-2. 2026-06-17_Stata-do-file_v01.pdf # This is the annotated Stata do file in PDF format
+1. 2026-09-15_Stata-do-file_v01.do # This is the annotated Stata do file
+2. 2026-09-15_Stata-do-file_v01.pdf # This is the annotated Stata do file in PDF format
 3. dtms_adi_b.R # This is the annotated R script for baseline-only discrete-time multistate models with neighborhood disadvantage as the indicator of socio-economic status
 4. dtms_adi_tv.R # This is the annotated R script for discrete-time multistate models with neighborhood disadvantage as the indicator of socio-economic status
 5. dtms_education_b.R # This is the annotated R script for baseline-only discrete-time multistate models with years of education as the indicator of socio-economic status
